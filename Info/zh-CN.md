@@ -10,7 +10,12 @@
 在大航海时代Addon中，主世界中的大部分生物群系都被替换成海洋生物群系。  
 你会出生在海中，尽力游到岸边，想办法生存下去吧！  
 如果你很幸运，或许能找到漂浮的村庄（这张图片是使用Blocktopograph生成的）：  
-![icon](https://github.com/masterone123/OceanTime/raw/master/Info/icon.png)
+![icon](https://github.com/masterone123/OceanTime/raw/master/Info/icon.png)  
+
+大航海时代生存地图:  
+这个存档中只保留了一个含有奖励箱的正常区块，请在加载大航海时代Addon后打开此存档。  
+pan.baidu.com/s/1brgOZp2wDXkctu2eEHn5bw  
+提取码:9um3  
 
 ## 注意事项  
  - 此插件会修改世界的生成方式！装载此插件后，进入其它存档会破坏地形（如下图）！如果地形被破坏，你可以使用Blocktopograph删除错误的区块。我们不会对此插件造成的损失负责。  
