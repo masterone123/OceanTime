@@ -2,8 +2,8 @@
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	package="com.masterone123.oceantime"
-	android:versionCode="1"
-	android:versionName="A1">
+	android:versionCode="2"
+	android:versionName="A2">
 	
 	<uses-sdk android:minSdkVersion="17"/>
 	

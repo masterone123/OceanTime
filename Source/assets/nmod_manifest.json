@@ -13,15 +13,15 @@
     }
   ],
   
-  "version_code" : 1,
+  "version_code" : 2,
   
-  "version_name" : "A1",
+  "version_name" : "A2",
   
   "minecraft_version_name" : "1.2", 
   
   "description" : "随着全球气候变暖，海平面上升，许多生物群系消失，MCPE迎来大航海时代！\nhttps://github.com/masterone123/OceanTime",
   
-  "change_log" : "修改生物群系",
+  "change_log" : "修改生物群系\n在奖励箱下方生成平台",
   
   
   "banner_title" : "大航海时代",
