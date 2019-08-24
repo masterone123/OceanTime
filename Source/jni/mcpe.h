@@ -1,20 +1,15 @@
 #pragma once
 
-class Biome
-{
-	public:
-	static Biome* mBiomes[256];
-	
-	static Biome* beaches;
-	static Biome* deepOcean;
-	static Biome* hell;
-	static Biome* mushroomIsland;
-	static Biome* mushroomIslandShore;
-	static Biome* ocean;
-	static Biome* river;
-	static Biome* sky;
-	static Biome* stoneBeach;
-	
-	public:
-	static void initBiomes();
-};
+class Biome;
+class Block;
+class BlockID;
+class BlockPos;
+class BlockSource;
+class BonusChestFeature;
+class Feature;
+class FullBlock;
+class Random;
+
+#include "mcpe/Biome.h"
+#include "mcpe/Block.h"
+#include "mcpe/Feature.h"

@@ -37,5 +37,9 @@ pan.baidu.com/s/1brgOZp2wDXkctu2eEHn5bw
 4. 添加NMod并**启用**  
 
 ## 更新日志  
+### A2(Build 2)  
+修改生物群系  
+在奖励箱下方生成平台  
+
 ### A1(Build 1)  
 修改生物群系  
