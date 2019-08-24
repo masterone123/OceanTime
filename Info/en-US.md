@@ -31,5 +31,9 @@ If you are lucky, you may be able to find a floating village (this image was gen
 4. Add NMod and **enable**  
 
 ## Changelog  
+### A2(Build 2)  
+Edit biomes  
+Generate a platform below the bonus chest  
+
 ### A1(Build 1)  
 Edit biomes  
